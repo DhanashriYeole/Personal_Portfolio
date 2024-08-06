@@ -157,7 +157,8 @@ span
     
 }
 .about-img img{
-    border-radius: 20rem;
+    border-radius: 50rem;
+    
 }
 .heading
 {
@@ -445,8 +446,8 @@ span
        font-size: 5rem;
     }
     .home-img img{
-        width: 60vw;
-        height: 102vh;
+        width: auto;
+        height: auto;
         margin-top:4rem;
     }
     .about
@@ -454,7 +455,7 @@ span
         flex-direction: column-reverse;
     }
     .about img{
-      width: 70vw ;
+      width: auto;
       height: auto;
       margin-top: 4rem;
     }
@@ -468,8 +469,8 @@ span
                width: 100%;
     }
     .home-img img{
-        width: 70vw;
-        height: 83vh;
+        width: auto;
+        height: auto;
         margin-top:3rem;
     }
     .about img{
@@ -494,12 +495,13 @@ span
         width: 100%;
     }
     .home-img img{
-        width: 80vw;
+        width: auto;
         height: auto;
         margin-top:2rem;
     }
     .about img{
-        width: 80vw ;
+        width: auto ;
+        height: auto;
         margin-top: 2rem;
       }
     .footer
@@ -526,13 +528,13 @@ span
        
     }
     .home-img img{
-        width: 90vw;
-        height: 78vh;
+        width: auto;
+        height: auto;
         margin-top:2rem;
     }
     .about img{
-        width: 90vw ;
-        height: 60vh;
+        width: auto ;
+        height: auto;
         margin-top: 2rem;
       }
     .footer
@@ -557,13 +559,13 @@ span
         width: 100%;
     }
     .home-img img{
-        width: 100vw;
-        height: 90vh;
+        width: auto;
+        height: auto;
         margin-top:1rem;
     }
     .about img{
-        width: 100vw ;
-        height: 50vh;
+        width: auto ;
+        height: auto;
         margin-top: 1rem;
       }
     .footer
@@ -588,12 +590,13 @@ span
         width: 100%;
     }
     .home-img img{
-        width: 80vw;
-        height: 70vh;
+        width: auto;
+        height: auto;
+        
     }
     .about img{
-        width: 80vw ;
-        height: 40vh;
+        width: auto ;
+        height: auto;
       }
     .footer
     {
@@ -618,12 +621,12 @@ font-size: 25%;
     width: 100%;
 }
 .home-img img{
-    width: 90vw;
-    height: 60vh;
+    width: auto;
+    height: auto;
 }
 .about img{
-    width: 90vw ;
-    height: 40vh;
+    width: auto ;
+    height: auto;
   }
 .footer
 {
